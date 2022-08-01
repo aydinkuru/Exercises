@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aydinkuru/Exercises/issues"
   },
-  "homepage": "https://github.com/aydinkuru/Exercises#readme"
+  "homepage": "https://github.com/aydinkuru/Exercises#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
